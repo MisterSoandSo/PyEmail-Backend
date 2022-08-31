@@ -1,6 +1,7 @@
 PyEmail Backend
 ===============
-[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MisterSoandSo/1a51ed347f57857e2304f54123de2759/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MisterSoandSo/1a51ed347f57857e2304f54123de2759/raw/clone.json&logo=github)]()
+[![View Count](https://img.shields.io/badge/dynamic/json?color=success&label=Views&query=uniques&url=https://gist.githubusercontent.com/MisterSoandSo/1a51ed347f57857e2304f54123de2759/raw/clone.json&logo=github)]()
 
 A Python based SMTP library for backend and automatation purposes. This projects aims to be a modern, Python3-compatible, well-documented library for
 sending emails via remote servers.
