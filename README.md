@@ -6,8 +6,8 @@ PyEmail Backend
 A Python based SMTP library for backend and automatation purposes. This projects aims to be a modern, Python3-compatible, well-documented library for
 sending emails via remote servers.
 
-## Supported functionality
-TBD .... Project is still in early stages of developement. Come back later for ore details
+## Project Status
+⚠️ Project Archived: The SMTP protocol is no longer supported due to Gmail disabling 'Less Secure Apps.' This project is maintained for archival purposes.
 
 ## Supported Python versions
 PyEmail is compatible with (at least) the following Python implementations:
